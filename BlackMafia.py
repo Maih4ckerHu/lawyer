@@ -124,7 +124,7 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈
 
 
 jalan("\033[1;93m.        👨‍🎓.  Lawyer kisi se kam nahi .  👨‍🎓")
-jalan("\033[1;93m.                           |             
+#alan("\033[1;93m.                      |         
 
 jalan("\033[1;93m.          Dipawali ke Hardik Shubhkamnaye 🥰🥰🥰
                                      ------ Aapko Mile khushiya Hajar 
