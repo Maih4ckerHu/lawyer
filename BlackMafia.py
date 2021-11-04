@@ -126,12 +126,12 @@ jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈
 jalan("\033[1;93m.        👨‍🎓.  Lawyer kisi se kam nahi .  👨‍🎓")
 #alan("\033[1;93m.                      |         
 
-jalan("\033[1;93m.          Dipawali ke Hardik Shubhkamnaye 🥰🥰🥰
-                                     ------ Aapko Mile khushiya Hajar 
-                                                         :-(Ravi singh)")
+jalan("\033[1;93m.          Dipawali ke Hardik Shubhkamnaye 🥰🥰🥰 ")
+jalan(" \033[1;93m.                                  ------ Aapko Mile khushiya Hajar ")
+jalan(" \033[1;93m                                                      :-(Ravi singh)")
       
-jalan("\033[1;93m.     Happy Dipawali All sir  ------👨‍🎓 👨‍
-                                Praffula Sir 🥰 Pankaj sir 👨‍⚖️👨‍⚖️ ⚖️")
+jalan("\033[1;93m.     Happy Dipawali All sir  ------👨‍🎓 👨‍ ")
+jalan(" \033[193m                                Praffula Sir 🥰 Pankaj sir 👨‍⚖️👨‍⚖️ ⚖️")
 
 jalan("\033[1;93m.  @Himanshu kumar  -----👨‍🎓 ")
 
